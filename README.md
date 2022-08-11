@@ -6,4 +6,4 @@ The teacher provided two screenshots, one of how the web looks on desktop and th
 
 ![Samples of the website](https://user-images.githubusercontent.com/88142313/184137726-2945e7e6-2f8b-4459-9e69-1bbf0278368a.png)
 
-🔗→ https://toni-castillo.github.io/homepage-with-bootstrap/
+🔗 https://toni-castillo.github.io/homepage-with-bootstrap/
